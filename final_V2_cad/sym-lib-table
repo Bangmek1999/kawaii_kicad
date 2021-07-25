@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name New_ESP32)(type Legacy)(uri ${KIPRJMOD}/New_ESP32.lib)(options "")(descr ""))
+  (lib (name EC)(type Legacy)(uri ${KIPRJMOD}/EC.lib)(options "")(descr ""))
+  (lib (name BATT)(type Legacy)(uri ${KIPRJMOD}/BATT.lib)(options "")(descr ""))
+  (lib (name Dallas)(type Legacy)(uri ${KIPRJMOD}/Dallas.lib)(options "")(descr ""))
+  (lib (name New_DHT11)(type Legacy)(uri ${KIPRJMOD}/New_DHT11.lib)(options "")(descr ""))
+  (lib (name New_Light)(type Legacy)(uri ${KIPRJMOD}/New_Light.lib)(options "")(descr ""))
+  (lib (name HT7333)(type Legacy)(uri ${KIPRJMOD}/HT7333.lib)(options "")(descr ""))
+  (lib (name final_cad-rescue)(type Legacy)(uri ${KIPRJMOD}/final_cad-rescue.lib)(options "")(descr ""))
+)

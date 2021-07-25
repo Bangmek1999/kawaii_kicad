@@ -1,0 +1,18 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# bettery
+#
+DEF bettery U 0 40 Y Y 1 F N
+F0 "U" 100 0 50 H V C CNN
+F1 "bettery" 100 100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 5 0 1 0 -250 150 -250 -50 250 -50 250 150 -250 150 N
+X GND ~ -350 0 100 R 50 50 1 1 I
+X VCC ~ -350 100 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
